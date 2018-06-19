@@ -1,16 +1,16 @@
 #include<stdio.h>
 int main()
 {
-	char z;
-	scanf("%c",&z);
+	char a;
+	scanf("%c",&a);
 	if(z=='a'||z=='A'||z=='e'||z=='E'||z=='i'||z=='I'||z=='o'||z=='O'||z=='u'||z=='U')
 	{
-		printf("vowel");
+		printf("the given input is a vowel");
 	}
 	else
 	{
-		printf("Consonant");
+		printf("the given input is a Consonant");
 	}
 	return 0;
-	}
+}
 
