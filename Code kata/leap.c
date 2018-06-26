@@ -6,11 +6,11 @@ printf("Enter the year");
 scanf("%d",&year);
 if(year%4==0)
 {
-printf("leap year");
+printf("yes");
 }
 else
 {
-printf(" not a leap year");
+printf("no");
 }
 return 0;
 }
