@@ -11,7 +11,7 @@ int main()
             if(i%n== 0)
             {
                 count++;
-                break;
+               
             }
         }
 
