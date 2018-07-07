@@ -7,7 +7,7 @@ for(i=1;i<=5;i++)
 {
 m=i*n;
 
-printf("%d ",m);
+printf("%d\t",m);
 }
 return 0;
 }
